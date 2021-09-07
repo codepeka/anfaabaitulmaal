@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function Home() {
   return (
       <>
@@ -17,10 +19,12 @@ export default function Home() {
                   <p className="sfl-deskripsi py-2">
                     Yayasan Anfaa Baitul Maal Indonesia hadir untuk membantu masyarakat, dan memberikan yang terbaik.
                   </p>
-                  <div className="btn btn-success btn-contactme mb-5">
-                    Contact Me
-                    <img className="ms-1" src="/assets/icons/send.svg" alt='' />
-                  </div>
+                  <Link href='https://www.instagram.com/anfaabaitulmaalindonesia'>
+                    <a target="_blank" className="btn btn-success btn-contactme mb-5">
+                      Contact Me
+                      <img className="ms-1" src="/assets/icons/send.svg" alt='' />
+                    </a>
+                  </Link>
                   <div className="scroll-down mt-5 pt-5">
                     <img src="/assets/icons/icon_mouse.svg" alt='' />
                     <span className="mx-2">Scroll Down</span>
