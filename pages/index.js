@@ -19,16 +19,16 @@ export default function Home() {
                   </p>
                   <div className="btn btn-success btn-contactme mb-5">
                     Contact Me
-                    <img className="ms-1" src="/assets/icons/send.svg" />
+                    <img className="ms-1" src="/assets/icons/send.svg" alt='' />
                   </div>
                   <div className="scroll-down mt-5 pt-5">
-                    <img src="/assets/icons/icon_mouse.svg" />
+                    <img src="/assets/icons/icon_mouse.svg" alt='' />
                     <span className="mx-2">Scroll Down</span>
-                    <img src="/assets/icons/icon_down.svg" />
+                    <img src="/assets/icons/icon_down.svg" alt='' />
                   </div>
                 </div>
                 <div className="section-first-right col-md-6 d-flex justify-content-end">
-                  <img src="/assets/icons/logo_anfaa.png" className="sfr-vector" />
+                  <img src="/assets/icons/logo_anfaa.png" className="sfr-vector" alt='' />
                 </div>
               </div>
             </div>
@@ -79,7 +79,7 @@ export default function Home() {
                       </tbody>
                     </table>
                     <div className="btn btn-lg btn-success col-md-12">
-                      <img src="/assets/icons/icon_ig.svg" /> anfaabaitulmaalindonesia
+                      <img src="/assets/icons/icon_ig.svg" alt='' /> anfaabaitulmaalindonesia
                     </div>
                   </div>
                 </div>
@@ -95,67 +95,67 @@ export default function Home() {
               <div className="col-md-12 row m-0">
                 <div className="col-md-4 mb-4">
                   <div className="st-card">
-                    <img src="/assets/icons/icon_toga.svg" className="mb-3" />
+                    <img src="/assets/icons/icon_toga.svg" className="mb-3" alt='' />
                     <h1 className="st-judul">Pendidikan</h1>
                     <p className="st-deskripsi">Kami berkomitmen untuk memberikan layanan pendidikan kepada kaum duafa.</p>
                     <div className="btn btn-success btn-more">
                       Selengkapnya 
-                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" />
+                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" alt='' />
                     </div>
                   </div>
                 </div>          
                 <div className="col-md-4 mb-4">
                   <div className="st-card">
-                    <img src="/assets/icons/icon_toga.svg" className="mb-3" />
+                    <img src="/assets/icons/icon_toga.svg" className="mb-3" alt='' />
                     <h1 className="st-judul">Pendidikan</h1>
                     <p className="st-deskripsi">Kami berkomitmen untuk memberikan layanan pendidikan kepada kaum duafa.</p>
                     <div className="btn btn-success btn-more">
                       Selengkapnya 
-                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" />
+                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" alt='' />
                     </div>
                   </div>
                 </div>          
                 <div className="col-md-4 mb-4">
                   <div className="st-card">
-                    <img src="/assets/icons/icon_toga.svg" className="mb-3" />
+                    <img src="/assets/icons/icon_toga.svg" className="mb-3" alt='' />
                     <h1 className="st-judul">Pendidikan</h1>
                     <p className="st-deskripsi">Kami berkomitmen untuk memberikan layanan pendidikan kepada kaum duafa.</p>
                     <div className="btn btn-success btn-more">
                       Selengkapnya 
-                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" />
+                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" alt='' />
                     </div>
                   </div>
                 </div> 
                 <div className="col-md-4 mb-4">
                   <div className="st-card">
-                    <img src="/assets/icons/icon_toga.svg" className="mb-3" />
+                    <img src="/assets/icons/icon_toga.svg" className="mb-3" alt='' />
                     <h1 className="st-judul">Pendidikan</h1>
                     <p className="st-deskripsi">Kami berkomitmen untuk memberikan layanan pendidikan kepada kaum duafa.</p>
                     <div className="btn btn-success btn-more">
                       Selengkapnya 
-                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" />
+                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" alt='' />
                     </div>
                   </div>
                 </div>          
                 <div className="col-md-4 mb-4">
                   <div className="st-card">
-                    <img src="/assets/icons/icon_toga.svg" className="mb-3" />
+                    <img src="/assets/icons/icon_toga.svg" className="mb-3" alt='' />
                     <h1 className="st-judul">Pendidikan</h1>
                     <p className="st-deskripsi">Kami berkomitmen untuk memberikan layanan pendidikan kepada kaum duafa.</p>
                     <div className="btn btn-success btn-more">
                       Selengkapnya 
-                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" />
+                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" alt='' />
                     </div>
                   </div>
                 </div>          
                 <div className="col-md-4 mb-4">
                   <div className="st-card">
-                    <img src="/assets/icons/icon_toga.svg" className="mb-3" />
+                    <img src="/assets/icons/icon_toga.svg" className="mb-3" alt='' />
                     <h1 className="st-judul">Pendidikan</h1>
                     <p className="st-deskripsi">Kami berkomitmen untuk memberikan layanan pendidikan kepada kaum duafa.</p>
                     <div className="btn btn-success btn-more">
                       Selengkapnya 
-                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" />
+                      <img src="/assets/icons/icon_arrow_right.svg" className="ms-2" alt='' />
                     </div>
                   </div>
                 </div>          
@@ -173,21 +173,21 @@ export default function Home() {
                   <div className="sh-card bg-purple">
                     <h1 className="sh-judul">Jemput Donasi</h1>
                     <hr className="sh-garis" />
-                    <img src="/assets/icons/icon_jemput_donasi.svg" className="sh-img p-4" />
+                    <img src="/assets/icons/icon_jemput_donasi.svg" className="sh-img p-4" alt='' />
                   </div>
                 </div>
                 <div className="col-md-4 mb-4">
                   <div className="sh-card bg-green">
                     <h1 className="sh-judul">Donasi Kaleng</h1>
                     <hr className="sh-garis" />
-                    <img src="/assets/icons/icon_donasi_kaleng.svg" className="sh-img p-4" />
+                    <img src="/assets/icons/icon_donasi_kaleng.svg" className="sh-img p-4" alt='' />
                   </div>
                 </div>
                 <div className="col-md-4 mb-4">
                   <div className="sh-card bg-purple">
                     <h1 className="sh-judul">Donasi Online</h1>
                     <hr className="sh-garis" />
-                    <img src="/assets/icons/icon_donasi_online.svg" className="sh-img p-4" />
+                    <img src="/assets/icons/icon_donasi_online.svg" className="sh-img p-4" alt='' />
                   </div>
                 </div>
               </div>

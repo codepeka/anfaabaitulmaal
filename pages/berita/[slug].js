@@ -18,7 +18,7 @@ export default function Berita({
               <div className="content">
                 <h3 className="text-center">{title}</h3>
                 <h5 className="text-muted text-center py-2">{date}</h5>
-                <img src={cover_image} className="content-image" />
+                <img src={cover_image} className="content-image" alt=''/>
                 <div className="isiBerita mt-3">
                   <div dangerouslySetInnerHTML={{__html: marked(content)}}></div>
                 </div>
