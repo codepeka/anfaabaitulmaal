@@ -19,12 +19,12 @@
 `<Donasi>` : <https://saweria.co/codepeka> 
 <br>
 <p align="center">
-  <img src="screenshot/saweria.PNG" alt="Barcode Saweria"> <br>
+  <img src="screenshot/saweria.png alt="Barcode Saweria"> <br>
   <strong>Barcode Saweria</strong> 
 </p>
 
 
 # ScreenShot
 
-![](screenshot/Anfaa-Lembaga-Amil-Zakat.png.png)
-![](screenshot/Blog-Anfaa-Lembaga-Amil-Zakat.png.png)
+![](screenshot/Anfaa-Lembaga-Amil-Zakat.png)
+![](screenshot/Blog-Anfaa-Lembaga-Amil-Zakat.png)
