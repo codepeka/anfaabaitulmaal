@@ -19,7 +19,7 @@
 `<Donasi>` : <https://saweria.co/codepeka> 
 <br>
 <p align="center">
-  <img src="screenshot/saweria.png alt="Barcode Saweria"> <br>
+  <img src="screenshot/saweria.png" alt="Barcode Saweria"> <br>
   <strong>Barcode Saweria</strong> 
 </p>
 
